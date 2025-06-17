@@ -1,6 +1,19 @@
 # wordpress_project
 Feel free to either download the whole project, or only the theme which it's hestia.
 
+Extract the installed data in laragon (as an exemple) and run for local test.
+
+![My Image](PHOTOS/login.png)
+
+For login info: 
+Username:saifeddinebensalem
+password:JOhDCGI&WxPilY2O^O
+
+Feel free to change the data either by browsing to Appearance => Customize  
+![My Image](PHOTOS/Customizor.png)
+
+or changing via the translator Languages => Translations : 
+![My Image](PHOTOS/Translations.png)
 
 Result of work : 
 
