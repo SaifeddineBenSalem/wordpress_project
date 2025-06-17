@@ -14,3 +14,6 @@ deutsch version :
 ![My Image](PHOTOS/d_5.png)
 ![My Image](PHOTOS/d_6.png)
 ![My Image](PHOTOS/d_7.png)
+![My Image](PHOTOS/d_8.png)
+![My Image](PHOTOS/d_9.png)
+![My Image](PHOTOS/d_10.png)
