@@ -51,5 +51,15 @@ Configure the reception email in the template:
 ![German Version - Page 9](PHOTOS/d_9.png)
 ![German Version - Page 10](PHOTOS/d_10.png)
 
-## Support
-For any questions or support, please contact the development team.
+### English Version Screenshots
+![German Version - Page 1](PHOTOS/e_1.png)
+![German Version - Page 2](PHOTOS/e_2.png)
+![German Version - Page 3](PHOTOS/e_3.png)
+![German Version - Page 4](PHOTOS/e_4.png)
+![German Version - Page 5](PHOTOS/e_5.png)
+![German Version - Page 6](PHOTOS/e_6.png)
+![German Version - Page 7](PHOTOS/e_7.png)
+![German Version - Page 8](PHOTOS/e_8.png)
+![German Version - Page 9](PHOTOS/e_9.png)
+![German Version - Page 10](PHOTOS/e_10.png)
+
