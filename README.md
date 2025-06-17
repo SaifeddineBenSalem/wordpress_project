@@ -28,7 +28,7 @@ This project uses EmailJS for email functionality, which provides 200 emails per
 
 ### EmailJS Account
 You can either:
-1. Create a new account, or
+1. Create a new account, and configurate the new emailjs coords in the custom javascript/html of contacting page
 2. Use the provided credentials:
    - **Email:** kandimkarphona@gmail.com
    - **Password:** Kandim123
