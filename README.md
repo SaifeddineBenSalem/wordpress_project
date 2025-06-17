@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/2ff9f007-5336-42f6-8d53-2478411d132e)# wordpress_project
 Feel free to either download the whole project, or only the theme which it's hestia.
 
 Extract the installed data in laragon (as an exemple) and run for local test.
