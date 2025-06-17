@@ -1,0 +1,98 @@
+/* Footer Styles */
+.footer {
+    background: linear-gradient(180deg, #23272b 0%, #343a40 100%);
+    color: #fff;
+    padding: 60px 0 30px;
+    box-shadow: 0 -8px 32px 0 rgba(0,0,0,0.18);
+}
+
+.footer-big {
+    padding-top: 80px;
+}
+
+.footer .hestia-bottom-footer-content {
+    padding: 30px 0 0 0;
+    border-top: none;
+}
+
+.footer .social-icons {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.footer .social-links {
+    display: block !important;
+    text-align: center !important;
+    background: none !important;
+    margin: 0 auto !important;
+}
+
+.footer .social-icon {
+    display: block !important;
+    margin: 0 auto 32px auto !important;
+    min-width: 96px !important;
+    width: 96px !important;
+    height: 96px !important;
+    border-radius: 50% !important;
+    background: rgba(255,255,255,0.08) !important;
+    color: #fff !important;
+    font-size: 3rem !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.10) !important;
+    transition: all 0.3s cubic-bezier(.4,2,.6,1) !important;
+    border: none !important;
+    vertical-align: middle !important;
+}
+
+.footer .social-icon:last-child {
+    margin-bottom: 0 !important;
+}
+
+.footer .social-icon:hover {
+    background: #fff;
+    color: #23272b;
+    transform: scale(1.12) translateY(-4px);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+}
+
+.footer .copyright {
+    text-align: center;
+    font-size: 1.1rem;
+    color: rgba(255,255,255,0.8);
+    letter-spacing: 0.03em;
+    margin-top: 10px;
+    font-family: 'Montserrat', Arial, sans-serif;
+}
+
+.footer .footer-menu-container {
+    text-align: center;
+}
+
+.footer .footer-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer .footer-menu li a {
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer .footer-menu li a:hover {
+    color: #ffffff;
+}
+
+@media (max-width: 768px) {
+    .footer .social-links {
+        gap: 24px;
+    }
+    .footer .social-icon {
+        width: 44px;
+        height: 44px;
+        font-size: 1.3rem;
+    }
+} 
