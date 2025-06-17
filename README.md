@@ -1,40 +1,55 @@
-Feel free to either download the whole project, or only the theme which it's hestia.
+# WordPress Multilingual Website
 
-Extract the installed data in laragon (as an exemple) and run for local test.
+## Overview
+This project is a multilingual WordPress website built with the Hestia theme. You can either download the complete project or just the theme for your needs.
 
-![My Image](PHOTOS/login.png)
+## Installation
+1. Extract the project files to your local server (e.g., Laragon)
+2. Run the project locally for testing
 
-For login info: 
-Username:saifeddinebensalem
-password:JOhDCGI&WxPilY2O^O
+## Login Credentials
+- **Username:** saifeddinebensalem
+- **Password:** JOhDCGI&WxPilY2O^O
 
-Feel free to change the data either by browsing to Appearance => Customize  
-![My Image](PHOTOS/Customizor.png)
+## Customization Options
 
-or changing via the translator Languages => Translations : 
-![My Image](PHOTOS/Translations.png)
+### Theme Customization
+You can customize the website's appearance through WordPress Customizer:
+- Navigate to `Appearance => Customize`
+![Theme Customizer](PHOTOS/Customizor.png)
 
-About the emailing :
-EmailJs was used in this project, it delivers 200 emails per day. 
-![My Image](PHOTOS/ContactUs1.png)
-Feel free to create an account from 0 or login via those cordonitials to configurate the reception email :
-email:kandimkarphona@gmail.com
-password:Kandim123 
+### Language Translation
+Manage translations through the WordPress translation interface:
+- Navigate to `Languages => Translations`
+![Translations Interface](PHOTOS/Translations.png)
 
-and change the reception email in the template : 
-![My Image](PHOTOS/ContactUs2.png)
+## Email Configuration
+This project uses EmailJS for email functionality, which provides 200 emails per day.
 
-Result of work : 
+### EmailJS Account
+You can either:
+1. Create a new account, or
+2. Use the provided credentials:
+   - **Email:** kandimkarphona@gmail.com
+   - **Password:** Kandim123
 
-Deutsch version
+### Email Template Configuration
+Configure the reception email in the template:
+![Email Configuration](PHOTOS/ContactUs2.png)
 
-![My Image](PHOTOS/d_1.png)
-![My Image](PHOTOS/d_2.png)
-![My Image](PHOTOS/d_3.png)
-![My Image](PHOTOS/d_4.png)
-![My Image](PHOTOS/d_5.png)
-![My Image](PHOTOS/d_6.png)
-![My Image](PHOTOS/d_7.png)
-![My Image](PHOTOS/d_8.png)
-![My Image](PHOTOS/d_9.png)
-![My Image](PHOTOS/d_10.png)
+## Website Preview
+
+### German Version Screenshots
+![German Version - Page 1](PHOTOS/d_1.png)
+![German Version - Page 2](PHOTOS/d_2.png)
+![German Version - Page 3](PHOTOS/d_3.png)
+![German Version - Page 4](PHOTOS/d_4.png)
+![German Version - Page 5](PHOTOS/d_5.png)
+![German Version - Page 6](PHOTOS/d_6.png)
+![German Version - Page 7](PHOTOS/d_7.png)
+![German Version - Page 8](PHOTOS/d_8.png)
+![German Version - Page 9](PHOTOS/d_9.png)
+![German Version - Page 10](PHOTOS/d_10.png)
+
+## Support
+For any questions or support, please contact the development team.
